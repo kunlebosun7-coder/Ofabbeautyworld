@@ -1,5 +1,5 @@
-# ofabworld
-home of beauty
+# ofabbeautyworld
+home of everything beauty and luxury
 <!doctype html>
 <html lang="en">
 <head>
