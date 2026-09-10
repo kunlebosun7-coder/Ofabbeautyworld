@@ -1,0 +1,9 @@
+{
+  "name": "OFab World",
+  "short_name": "OFab",
+  "description": "Luxury wigs, piercings and beauty rituals by OFab World.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f4ef",
+  "theme_color": "#201c20"
+}
