@@ -33,7 +33,7 @@ home of everything beauty and luxury
 
     <section id="services" class="services"><div class="services-visual"><img id="serviceImage" alt="OFab World studio detail" src="https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=1000&q=85"><div class="stamp">OFAB<br>WORLD<br><span>STUDIO</span></div></div><div class="services-copy"><p class="eyebrow">OFab Studio</p><h2>A little ritual.<br><em>A lot of you.</em></h2><p>Come as you are. Leave feeling like the main character. Our artists are here for every bold idea, finishing touch, and fresh start.</p><div id="serviceList" class="service-list"></div></div></section>
 
-    <section id="story" class="story"><p class="eyebrow">Welcome to our world</p><h2>Beauty is not a look.<br>It's a <em>language.</em></h2><p>OFab World is a beauty house for the expressive ones. From crown to cartilage, we make space for the version of you that wants to be seen.</p><a href="#services" class="button light">Book your moment <span>↗</span></a></section>
+    <section id="story" class="story"><p class="eyebrow">Welcome to our world</p><h2>Beauty is not a look.<br>It's a <em>Statement.</em></h2><p>OFab World is a beauty house for the expressive ones. From crown to cartilage, we make space for the version of you that wants to be seen.</p><a href="#services" class="button light">Book your moment <span>↗</span></a></section>
   </main>
   <footer><div class="logo">O<span>Fab</span> World<sup>®</sup></div><p>Made for the beautifully undone.</p><p>© 2026 OFab World</p></footer>
 
