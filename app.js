@@ -1,4 +1,4 @@
-const defaults={whatsapp:'2348000000000',heroImage:'https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?auto=format&fit=crop&w=1000&q=85',serviceImage:'https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=1000&q=85',products:[
+const defaults={whatsapp:'2348067278021',heroImage:'https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?auto=format&fit=crop&w=1000&q=85',serviceImage:'https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=1000&q=85',products:[
 {name:'The Juno',category:'Wigs',price:85000,image:'https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=700&q=85'},
 {name:'Gold Rush Hoops',category:'Piercings',price:15000,image:'https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?auto=format&fit=crop&w=700&q=85'},
 {name:'The Sade',category:'Wigs',price:120000,image:'https://images.unsplash.com/photo-1560869713-7d0a29430803?auto=format&fit=crop&w=700&q=85'},
