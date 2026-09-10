@@ -14,7 +14,7 @@ home of beauty
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <div class="announcement">Lagos beauty, without limits <span>•</span> Book your experience today</div>
+  <div class="announcement">soft beauty, without limits <span>•</span> Book your experience today</div>
   <header>
     <a href="#top" class="logo">O<span>Fab</span> World<sup>®</sup></a>
     <nav><a href="#shop">Shop</a><a href="#services">Studio</a><a href="#story">Our world</a></nav>
