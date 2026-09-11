@@ -1,7 +1,7 @@
 {
   "name": "OFab Beauty World",
   "short_name": "OFab",
-  "description": "Luxury make-up, piercings and beauty rituals by OFab World.",
+  "description": "Luxury jewelries, piercings and beauty rituals by OFab Beauty World.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f8f4ef",
